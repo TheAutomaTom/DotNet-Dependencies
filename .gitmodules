@@ -1,0 +1,12 @@
+[submodule "DotNet-Dependencies.0.ExampleClassLibrary"]
+	path = DotNet-Dependencies.0.ExampleClassLibrary
+	url = https://github.com/TheAutomaTom/DotNet-Dependencies.0.ExampleClassLibrary
+[submodule "DotNet-Dependencies.1.NugetPackages"]
+	path = DotNet-Dependencies.1.NugetPackages
+	url = https://github.com/TheAutomaTom/DotNet-Dependencies.1.NugetPackages
+[submodule "DotNet-Dependencies.2.Projects"]
+	path = DotNet-Dependencies.2.Projects
+	url = https://github.com/TheAutomaTom/DotNet-Dependencies.2.Projects
+[submodule "DotNet-Dependencies.3.GitSubmodules"]
+	path = DotNet-Dependencies.3.GitSubmodules
+	url = https://github.com/TheAutomaTom/DotNet-Dependencies.3.GitSubmodules
