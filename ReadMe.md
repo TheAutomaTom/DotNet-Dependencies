@@ -44,15 +44,6 @@
 
 ```
 
-
-1. Observe Dependents' present relationship to Provider.
-
-    GitSubmodules.Dependent-A has the Provider imported as an extra project
-    
-    GitSubmodules.Dependent-B
-    
-    GitSubmodules.Dependent-C
-
 ### Bibliography
 
 - Quickstart: Create and publish a NuGet package using Visual Studio (Windows only)
