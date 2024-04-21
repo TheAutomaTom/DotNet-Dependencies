@@ -11,10 +11,7 @@
 
 - Nugets
 
-```  
-    - Q. Is Nuget.exe req'd to complete these steps?
-      A. ...
-    
+```      
     - Creating and using a .Net 2.0 Class Library Nuget Package
         1. Open the Nuget project's solution in  VS22... 
             1. Set the build mode to `Release` from the select menu (to the left of the `Begin Debugging` button).  
@@ -39,7 +36,7 @@
 - Submodules
 
 ```  
-    1. Run `git submodule add. https://github.com/TheAutomaTom/GitSubmodules.Library`
+    1. Run `git submodule add https://github.com/TheAutomaTom/GitSubmodules.Library`
     1. Run `git submodule init`
     1. Run `git submodule update`
        A new folder has been created containing your gitsubmodel project.
